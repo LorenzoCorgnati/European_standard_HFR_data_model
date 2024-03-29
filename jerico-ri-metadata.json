@@ -1,0 +1,42 @@
+{
+    "_class": "Best Practice",
+    "alias": "https://github.com/LorenzoCorgnati/European_standard_HFR_data_model",
+    "abstract": "European standard QC, data and metadata model for Near Real Time current data from High Frequency Radar.",
+    "author": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/134"
+    },
+    "created": "2024-03-28",
+    "contributor": [
+        {
+            "_class": "Person",
+            "name": "Lorenzo Corgnati <lorenzo.corgnati@sp.ismar.cnr.it>"
+        }
+    ],
+    "description": "A common data and metadata model and QC test battery for Near Real Time (NRT) current data from HFR to ensure efficient and automated data discovery and interoperability across distributed and heterogeneous earth science data systems. This data model was defined and implemented in the framework of the Jerico-Next EU H2020 project, under the coordination of the EuroGOOS High Frequency Radar Task Team (https://eurogoos.eu/high-frequency-radar-task-team/). For any further information, please refer to the EuroGOOS European HFR Node website: https://hfrnode.eu. For proposing changes, integrations and updates to the data model, please use the GitHub functionalities or email to info@hfrnode.eu.",
+    "distribution": {
+        "_class": "Distribution",
+        "accessURL": "https://github.com/LorenzoCorgnati/European_standard_HFR_data_model"
+    },
+    "downloadURL": "https://github.com/LorenzoCorgnati/European_standard_HFR_data_model",
+    "keywords": ["ocean best practice","physical-oceanography","ocean-sciences","hf-radar","data-preservation","interoperability","data management","data model","QC","jerico-ri"],
+    "language": ["English"],
+    "license": "This document is free and public: you can redistribute it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.\n\nThis document is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.",
+    "modified": "2024-03-28",
+    "name": "EU_HFR_NODE_pyHFR",
+    "organization": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/134"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/134"
+    },
+    "publisher": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/134"
+    },
+    "published": "2024-03-28",
+    "url": "https://github.com/LorenzoCorgnati/European_standard_HFR_data_model",
+    "version": "v2.0"
+}
