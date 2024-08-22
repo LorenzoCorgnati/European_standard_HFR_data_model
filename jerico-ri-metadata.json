@@ -23,7 +23,7 @@
     "language": ["English"],
     "license": "This document is free and public: you can redistribute it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.\n\nThis document is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.",
     "modified": "2024-03-28",
-    "name": "EU_HFR_NODE_pyHFR",
+    "name": "European_standard_HFR_data_model",
     "organization": {
         "_class": "Organization",
         "alias": "https://edmo.seadatanet.org/report/134"
